@@ -4,7 +4,6 @@
 
 ![Iris Dataset](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)  
 
-**Colab Notebook**: [Click Here](#) 
 
 ---
 
