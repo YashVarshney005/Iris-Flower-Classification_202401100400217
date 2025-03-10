@@ -42,9 +42,12 @@ This project implements **Iris Flower Classification** using **Logistic Regressi
 | Virginica    | ❌ 0   | ❌ 0       | ✅ 10     |
 
 ---
+## Output Images
+![Screenshot 2025-03-10 150142](https://github.com/user-attachments/assets/b804ec2d-fc20-4906-a0d5-35d8d7545721)
 
-## Conclusion  
+![Screenshot 2025-03-10 150157](https://github.com/user-attachments/assets/ba93322d-1a78-48e2-b685-d955ca489762)
 
+## Conclusion
 - **High accuracy achieved** using Logistic Regression.  
 - **Clear feature separations** among species.  
 - Can be applied in **botany and horticulture**.  
